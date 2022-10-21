@@ -10,7 +10,7 @@
  [task_local]
  #奇瑞APP
  [rewrite_local]
- GET https://mobile-consumer-sapp.chery.cn/web/task/record/sign-in/daily url script-request-headers https://github.com/Shawn220528/scripts/blob/main/qr.js
+ https://mobile-consumer-sapp.chery.cn/web/task/record/sign-in/daily url script-request-headers https://github.com/Shawn220528/scripts/blob/main/qr.js
  [MITM]
  hostname = mobile-consumer-sapp.chery.cn
  */
