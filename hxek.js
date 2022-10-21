@@ -5,7 +5,7 @@
  抓包：开着抓包软件进行签到 获取签到请求全部 body 关键字gic-wx-app/member_sign.json
  变量格式：export hxekCk='11'@'22' 多账户 换行 或者 @ 分割
  定时一天一次
- Cron：15 9 * * *
+ cron: 15 9 * * *
  [task_local]
  #鸿星尔克
  [rewrite_local]

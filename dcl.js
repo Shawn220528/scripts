@@ -6,7 +6,7 @@
  抓包：开着抓包软件获取域名https://crmweixin.dslbuy.com 里面参数 mini_token
  变量格式：export dclCk='mini_token' 多账户 换行 或者 @ 分割
  定时一天一次
- Cron：15 9 * * *
+ cron: 15 9 * * *
  [task_local]
  #大参林
  [rewrite_local]

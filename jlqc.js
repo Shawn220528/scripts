@@ -5,7 +5,7 @@
  功能：目前完成所有每日任务，积分可以换实物，10积分=1元，token有效期应该是30天
  抓包：链接https://app.geely.com/api/v1/point/available 把参数填入变量jlqcCk='{"token":"XXXXX","txCookie":"xxxxx","deviceSN":"XXXXX","cookie":"XXXXX","User-Agent":"ji li qi che/2.6.0 (iPhone; iOS 16.0; Scale/3.00)","platform":"iOS"}' 多个@或换行隔开
  每天一次
- Cron：15 8 * * *
+ cron: 15 8 * * *
  [task_local]
  #吉利汽车APP
  [rewrite_local]

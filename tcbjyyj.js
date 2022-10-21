@@ -4,7 +4,7 @@
  目前完成签到，积分查询，积分可以换实物
  抓包域名下https://yyj.by-health.com的openid填入变量tcbjyyjCk 多个@或换行隔开
  每天一次
- Cron：15 8 * * *
+ cron: 15 8 * * *
  [task_local]
  #汤臣倍健营养家公众号
  [rewrite_local]

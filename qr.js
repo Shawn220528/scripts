@@ -6,7 +6,7 @@
  抓包：开启抓包软件 , 打开奇瑞汽车-签到，抓包域名mobile-consumer-sapp url里面的access_token  有效期未知
  变量: qrAppCk='access_token' 多个账号用 @ 或者 换行 分割
  定时1-2次，防止某些任务未完成
- Cron: 22 7,16 * * *
+ cron: 22 7,16 * * *
  [task_local]
  #奇瑞APP
  [rewrite_local]

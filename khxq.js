@@ -5,7 +5,7 @@
  每天一次即可，目前只有签到任务，积分跟卡夫亨氏共通，token有效期目前不知
  抓包域名 https://inspiration.kraftheinz.net.cn请求头部token填入变量khxqCk
  变量格式：export khxqCk='111'@'222' 多账户 换行 或者 @ 分割
- Cron：15 7 * * *
+ cron: 15 7 * * *
  [task_local]
  #卡亨星球小程序
  [rewrite_local]

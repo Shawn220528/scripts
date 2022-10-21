@@ -6,7 +6,7 @@
  抓取域名 app-api.deepal.com.cn 抓取账号请求头Authorization的值就可以
  变量格式：export caslCk='111'@'222' 多账户 换行 或者 @ 分割
  定时1-2次
- Cron：15 7,12 * * *
+ cron: 15 7,12 * * *
  [task_local]
  #长安深蓝小程序 打开积分
  [rewrite_local]
