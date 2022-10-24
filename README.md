@@ -10,6 +10,9 @@
 - 拉取仓库
   ```
   ql repo https://github.com/Shawn220528/scripts.git
+  
+## 访问量
+![Visitor Count](https://profile-counter.glitch.me/scripts/count.svg)
 
 ## 特别声明
 
