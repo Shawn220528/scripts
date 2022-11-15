@@ -11,7 +11,7 @@
   ql repo https://github.com/Shawn220528/scripts.git
 
 ## 交流
-https://t.me/+EwACkZts65wwZTM9
+能低调点吗？
 
 ## 访问量
 ![Visitor Count](https://profile-counter.glitch.me/Shawn220528/count.svg)
