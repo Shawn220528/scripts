@@ -1,6 +1,7 @@
 /**
  作者：shawn
  日期：9-13
+ 公众号：柠檬玩机交流   大家一起来柠檬群吹水把
  9.22 更新 去除抽奖，因为抽奖活动结束
  好孩子积分商城 签到、积分查询，积分可以换些孩子用的东西
  抓包请求域名https://cmanage.gb246.com关键字method=gb.member.new.openid.login。找到请求url里面的params=xxx里面xxx填入到变量即可

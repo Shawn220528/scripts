@@ -1,5 +1,6 @@
 /**
  作者：shawn
+ 公众号：柠檬玩机交流   大家一起来柠檬群吹水把
  日期：9.19
  微信扫码授权 https://ghproxy.com/https://raw.githubusercontent.com/Shawn220528/scripts/main/invitation/jyh.PNG
  抓包域名https://jjw.jingjiu.com 里面请求头部Authorization 填入变量jyhCk 多账号用 换行 或 @ 分割

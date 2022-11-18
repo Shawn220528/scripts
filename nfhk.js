@@ -1,5 +1,6 @@
 /**
  作者：shawn
+ 公众号：柠檬玩机交流   大家一起来柠檬群吹水把
  日期：9.20 新的一轮签到,只做了签到
  南方航空app 进去手动签到
  抓包https://wxapi.csair.com/marketing-tools/activity/join?type=APPTYPE&chanel=ss&lang=zh

@@ -1,6 +1,7 @@
 /**
  作者：shawn
  日期：10.9
+ 公众号：柠檬玩机交流   大家一起来柠檬群吹水把
  软件：叮咚买菜APP     PS:没注册的可以走个邀请注册哦~浏览器打开链接，微信扫码 https://ghproxy.com/https://raw.githubusercontent.com/Shawn220528/scripts/main/invitation/ddmc.PNG
  功能：APP签到-叮咚鱼塘-叮咚果园
  抓包：开启抓包软件 , 打开叮咚鱼塘 , 天天翻牌 , 开始抽奖https://farm.api.ddxq.mobi/api/v2/lucky-draw-activity/draw这个链接即可,把请求参数一一对应填入变量，注意：DDXQSESSID在请求cookie里面
