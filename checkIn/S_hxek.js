@@ -4,7 +4,7 @@
  项目：鸿星尔克
  功能：完成自动签到 查询积分功能
  抓包：开着抓包软件 手动签到 获取签到请求全部 body 关键字gic-wx-app/member_sign.json
- 必填变量格式：export S_hxekCk='body' 多个抢兑用 @ 或者 换行 分割
+ 必填变量格式：export S_hxekCk='body' 多个账号用 @ 或者 换行 分割
  选填变量格式：export S_hxekUa='user-agent' 多个账号用 @ 或者 换行
  定时：一天1次
  cron:38 8 * * *
