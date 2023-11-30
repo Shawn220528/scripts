@@ -11,7 +11,7 @@
  [task_local]
  #鸿星尔克
  [rewrite_local]
- https://hope.demogic.com/gic-wx-app/member_sign.json url script-request-headers https://github.com/Shawn220528/scripts/blob/main/hxek.js
+ https://hope.demogic.com/gic-wx-app/member_sign.json url script-request-headers https://raw.githubusercontent.com/Shawn220528/scripts/main/checkIn/S_hxek.js
  [MITM]
  hostname = hope.demogic.com
  */
