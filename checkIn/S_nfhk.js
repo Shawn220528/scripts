@@ -11,7 +11,7 @@
  [task_local]
  #南方航空
  [rewrite_local]
- https://wxapi.csair.com/marketing-tools/activity/join?type=APPTYPE&chanel=ss&lang=zh url script-request-headers https://github.com/Shawn220528/scripts/blob/main/nfhk.js
+ https://wxapi.csair.com/marketing-tools/activity/join?type=APPTYPE&chanel=ss&lang=zh url script-request-headers https://raw.githubusercontent.com/Shawn220528/scripts/main/checkIn/nfhk.js
  [MITM]
  hostname = wxapi.csair.com
  */
